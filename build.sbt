@@ -1,4 +1,4 @@
-name := "webcrank"
+name := "webcrank-test"
 
 scalaVersion := "2.10.1"
 
